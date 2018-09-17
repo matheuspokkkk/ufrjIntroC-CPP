@@ -72,4 +72,4 @@ double quadrado(void)
 	scanf("%lf", &x);
 
 	return x * x;
-}
+} 
